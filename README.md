@@ -1,4 +1,4 @@
-# GPU Project
+# VIA Project
 
 This repository contains all the material related to the project for the course of <i>Visione Artificiale</i>:
 <ul>
