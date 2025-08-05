@@ -4,6 +4,7 @@ This repository contains all the material related to the project for the course 
 <ul>
   <li>Project: <b>EqMotion Meets Assembly101 - Equivariant Motion Modeling for Manipulation Tasks</b>
   <li>Instructor: <b>Prof.ssa Raffaella Lanzarotti</b>
+  <li>Co-supervisor: <b>Dr. Francesco Agnelli</b>
 </ul>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatteoOnger/VIA_Project/blob/main/VIA_EQM.ipynb)
